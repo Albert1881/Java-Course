@@ -1,1 +1,2 @@
-# Java-Course
+# Java Course
+Sustech Java Course CS209
